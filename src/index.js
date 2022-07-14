@@ -16,7 +16,7 @@ let btnMenu = document.createElement('button');
     btnMenu.innerHTML = 'MENU'
     btnMenu.addEventListener("click", clearTwo)
 let btnContact = document.createElement('button');
-    btnContact.classList.add('contact');
+    btnContact.classList.add('contacts');
     btnContact.innerHTML = 'CONTACT'
     btnContact.addEventListener("click", clearThree)
 
